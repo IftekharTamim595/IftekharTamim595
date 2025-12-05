@@ -1,4 +1,4 @@
-![Header](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQekGHXSUUZ-y3matcxBhLJDvuwj6t9JfSOw)
+![Header](https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png)
 
 <h1 align="center">Hi, I'm Iftekhar Islam Tamim</h1>
 <h3 align="center">CSE undergrad focused on building real, usable software</h3>
