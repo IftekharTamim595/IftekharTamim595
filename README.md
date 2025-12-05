@@ -1,62 +1,72 @@
 ![Header](https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png)
 
-<h1 align="center">Hi, I'm Iftekhar Islam Tamim</h1>
-<h3 align="center">CSE undergrad focused on building real, usable software</h3>
+<h1 align="center">Hi, I'm Md. Iftekhar Islam Tamim</h1>
+<h3 align="center">🚀 Software Engineer | Competitive Programmer | Security Enthusiast</h3>
 
 <p align="center">
-  <img width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA" alt="Coding illustration">
+  <em>Building reliable software and exploring the intersection of AI, Security, and Agrotech.</em>
 </p>
 
 <p align="center">
+  <a href="https://codeforces.com/profile/tamimbhuiyan890"><img src="https://img.shields.io/badge/Codeforces-Max%201240-1f8acb?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"></a>
+  <a href="https://github.com/iftekhartamim595"><img src="https://img.shields.io/badge/Focus-C%2B%2B%20%2F%20Django-green?style=flat" alt="Focus"></a>
   <img src="https://komarev.com/ghpvc/?username=iftekhartamim595&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views">
 </p>
 
 ---
 
-### About me
+### 👨‍💻 About Me
 
-- Currently exploring **Python**, **Django**, and modern backend development  
-- Competitive programming background with strong fundamentals in **C++**  
-- Interested in building practical tools, clean systems, and ML-driven features  
-- Open to collaborations on full-stack and AI-powered projects  
-- Reach me at **tamimbhuiyan890@gmail.com**
+* 🎓 **Student:** CSE Undergrad focused on System Design & Software Reliability.
+* 💻 **Core:** Strong C++ fundamentals with a max rating of **1240** on Codeforces.
+* 🛠 **Current Stack:** Building full-stack apps using **Django** and **Python**.
+* 🔐 **Interests:** Exploring **Cybersecurity** (Network Security, Hashcat) and Computer Ethics.
+* 🌱 **Project Highlight:** Working on **AgroConnect** – a platform bridging local farmers with buyers.
 
 ---
 
-### Connect with me
-<p>
+### 🛠 Tech Stack & Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Languages & Tools</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" height="45" />
+        <br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
+        <br>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>GitHub Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhartamim595&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
   <a href="https://linkedin.com/in/iftekhar-islam-tamim-884181218" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/tamim.bhuiyan890" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30">
-  </a>
-  <a href="https://instagram.com/_iftekhar_tamim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30">
+  <a href="mailto:tamimbhuiyan890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/tamimbhuiyan890" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/iftekhartamim" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="30">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
-
----
-
-### Languages & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-</p>
-
----
-
-### Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhartamim595" />
 </p>
