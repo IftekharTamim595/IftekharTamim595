@@ -4,7 +4,7 @@
 <h3 align="center">CSE undergrad focused on building real, usable software</h3>
 
 <p align="center">
-  <img width="350" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA](https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png)" alt="Coding illustration">
+  <img width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA" alt="Coding illustration">
 </p>
 
 <p align="center">
