@@ -1,6 +1,7 @@
-![Header](https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png)
+![Header](https://i.ibb.co.com/BH7qcPtG/github-readme-2.jpg)
 
-<h1 align="center">Hi, I'm Md. Iftekhar Islam Tamim</h1>
+<!-- (https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png) -->
+<!-- <h1 align="center">Hi, I'm Md. Iftekhar Islam Tamim</h1> -->
 <h3 align="center">🚀 Software Engineer | Competitive Programmer | Security Enthusiast</h3>
 
 <p align="center">
