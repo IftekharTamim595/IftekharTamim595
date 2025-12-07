@@ -2,10 +2,10 @@
 
 <!-- (https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png) -->
 <!-- <h1 align="center">Hi, I'm Md. Iftekhar Islam Tamim</h1> -->
-<h3 align="center">🚀 Software Engineer | Competitive Programmer | Security Enthusiast</h3>
+<h3 align="center">🚀 Software Developer | Competitive Programmer | Security Enthusiast</h3>
 
 <p align="center">
-  <em>Building reliable software and exploring the intersection of AI, Security, and Agrotech.</em>
+  <em>Building reliable software and exploring the intersection of AI and Security.</em>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 * 💻 **Core:** Strong C++ fundamentals with a max rating of **1240** on Codeforces.
 * 🛠 **Current Stack:** Building full-stack apps using **Django** and **Python**.
 * 🔐 **Interests:** Exploring **Cybersecurity** (Network Security, Hashcat) and Computer Ethics.
-* 🌱 **Project Highlight:** Working on **AgroConnect** – a platform bridging local farmers with buyers.
+* 🌱 **Project Highlight:** Working on **GradBridge** – a platform bridging fresh graduates with alumni.
 
 ---
 
