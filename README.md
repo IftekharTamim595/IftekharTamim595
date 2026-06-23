@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github.gif" width="800"/>
+  <img src="assets/github.gif" width="600" heigh="450"/>
 </p>
 <h3 align="center">🚀 Software Developer | Competitive Programmer | Security Enthusiast</h3>
 
