@@ -1,7 +1,6 @@
-![Header](https://i.ibb.co.com/BH7qcPtG/github-readme-2.jpg)
-
-<!-- (https://i.postimg.cc/hvc4FZp5/Gemini-Generated-Image-c9m3k9c9m3k9c9m3.png) -->
-<!-- <h1 align="center">Hi, I'm Md. Iftekhar Islam Tamim</h1> -->
+<p align="center">
+  <img src="assets/github.gif" width="800"/>
+</p>
 <h3 align="center">🚀 Software Developer | Competitive Programmer | Security Enthusiast</h3>
 
 <p align="center">
@@ -18,11 +17,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 **Student:** CSE Undergrad focused on System Design & Software Reliability.
-* 💻 **Core:** Strong C++ fundamentals with a max rating of **1240** on Codeforces.
-* 🛠 **Current Stack:** Building full-stack apps using **Django** and **Python**.
-* 🔐 **Interests:** Exploring **Cybersecurity** (Network Security, Hashcat) and Computer Ethics.
-* 🌱 **Project Highlight:** Working on **GradBridge** – a platform bridging fresh graduates with alumni.
+- 🎓 **Student:** CSE Undergrad focused on System Design & Software Reliability.
+- 💻 **Core:** Strong C++ fundamentals with a max rating of **1240** on Codeforces.
+- 🛠 **Current Stack:** Building full-stack apps using **Django** and **Python**.
+- 🔐 **Interests:** Exploring **Cybersecurity** (Network Security, Hashcat) and Computer Ethics.
+- 🌱 **Project Highlight:** Working on **GradBridge** – a platform bridging fresh graduates with alumni.
 
 ---
 
@@ -57,6 +56,7 @@
 ---
 
 ### 🌐 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/iftekhar-islam-tamim-884181218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
