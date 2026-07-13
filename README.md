@@ -9,7 +9,7 @@
 <br><br>
 
 <div align="left">
-<img src="assets/opening.svg" width="480" alt="Opening">
+<img src="assets/opening.svg" width="540" alt="Opening">
 </div>
 
 <br>
@@ -30,8 +30,8 @@ I'm a <b><i>backend-focused software engineer</i></b> building <b><i>APIs</i></b
 
 <br><br>
 
-<div align="center">
-<img src="assets/position.svg" width="360" alt="Position">
+<div align="left">
+<img src="assets/position.svg" width="540" alt="Position">
 </div>
 
 <br>
@@ -71,8 +71,8 @@ I'm a <b><i>backend-focused software engineer</i></b> building <b><i>APIs</i></b
 
 <br><br>
 
-<div align="center">
-<img src="assets/gradbridge.svg" width="440" alt="Current Match">
+<div align="left">
+<img src="assets/gradbridge.svg" width="540" alt="Current Match">
 </div>
 
 <br>
@@ -120,7 +120,7 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 <br><br>
 
 <div align="left">
-<img src="assets/tournament.svg" width="520" alt="Tournament Hall">
+<img src="assets/tournament.svg" width="540" alt="Tournament Hall">
 </div>
 
 <br>
@@ -187,8 +187,8 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 <br><br>
 
-<div align="center">
-<img src="assets/endgame.svg" width="360" alt="Endgame">
+<div align="left">
+<img src="assets/endgame.svg" width="540" alt="Endgame">
 </div>
 
 <br>
