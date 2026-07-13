@@ -1,150 +1,162 @@
 <div align="center">
 
-  <!-- Header Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
     <img src="assets/light.svg" alt="Iftekhar Islam Tamim" width="100%">
   </picture>
 
-  <br><br>
+  <br>
 
-  <!-- Opening Header -->
-  <img src="assets/opening.svg" width="100%" max-width="480" alt="Opening">
+  <img src="assets/opening.svg" width="360" alt="Opening">
 
 </div>
 
 <br>
 
 <div align="center">
-  <table width="100%" style="max-width: 700px;">
+  <table width="600">
     <tr>
       <td align="center">
-        Iftekhar Islam Tamim works from the back end forward — systems before screens, architecture before answers. Before a line of code exists, the shape of the system already does: how data moves, where it breaks, what happens under load. Python, Django, and FastAPI are the tools; distributed systems, networking, and system design are the interest. Competitive programming sharpened the habit of reading the whole board before the first move. Based in Dhaka, building things meant to hold.
+        I'm a <i>backend-focused software engineer</i> building <i>APIs</i> and <i>backend services</i> with <i>Python</i>, <i>Django</i>, <i>FastAPI</i>, and <i>PostgreSQL</i>. Alongside development, I've solved 1,500+ <i>competitive programming</i> problems on <i>Codeforces</i>, strengthening my foundation in <i>data structures</i>, <i>algorithms</i>, and <i>problem solving</i>, while continually exploring <i>system design</i>, <i>cloud</i>, and <i>networking</i>.
       </td>
     </tr>
   </table>
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="assets/divider.svg" width="600" alt="">
+</div>
+
+<br>
 
 <div align="center">
 
-  <!-- Tech Stack Header -->
-  <img src="assets/position.svg" width="100%" max-width="480" alt="Position">
+  <img src="assets/position.svg" width="360" alt="Position">
 
 </div>
 
 <br>
 
 <div align="center">
-  <table width="100%" style="max-width: 700px;">
+  <table width="600">
     <tr>
-      <td width="25%" valign="top"><b>Core</b></td>
-      <td width="75%">Python · C++ · JavaScript · SQL</td>
+      <td width="150" valign="top"><b>Core</b></td>
+      <td width="450">Python · C++ · JavaScript · SQL</td>
     </tr>
     <tr>
-      <td width="25%" valign="top"><b>Backend</b></td>
-      <td width="75%">Django · Django REST Framework · FastAPI</td>
+      <td width="150" valign="top"><b>Backend</b></td>
+      <td width="450">Django · Django REST Framework · FastAPI</td>
     </tr>
     <tr>
-      <td width="25%" valign="top"><b>Frontend</b></td>
-      <td width="75%">React · Flutter · Dart</td>
+      <td width="150" valign="top"><b>Frontend</b></td>
+      <td width="450">React · Flutter · Dart</td>
     </tr>
     <tr>
-      <td width="25%" valign="top"><b>Database</b></td>
-      <td width="75%">PostgreSQL</td>
+      <td width="150" valign="top"><b>Database</b></td>
+      <td width="450">PostgreSQL</td>
     </tr>
     <tr>
-      <td width="25%" valign="top"><b>Infrastructure</b></td>
-      <td width="75%">Linux · Git · Docker</td>
+      <td width="150" valign="top"><b>Infrastructure</b></td>
+      <td width="450">Linux · Git · Docker</td>
     </tr>
     <tr>
-      <td width="25%" valign="top"><b>Learning</b></td>
-      <td width="75%">System Design · Cloud · Networking</td>
+      <td width="150" valign="top"><b>Learning</b></td>
+      <td width="450">System Design · Cloud · Networking</td>
     </tr>
   </table>
 </div>
 
----
+<br>
 
 <div align="center">
-
-  <!-- Featured Project Header -->
-  <img src="assets/gradbridge.svg" width="100%" max-width="520" alt="Current Match">
-
+  <img src="assets/divider.svg" width="600" alt="">
 </div>
 
 <br>
 
 <div align="center">
-  <table width="100%" style="max-width: 700px;">
-    <tr>
-      <td>
 
-### Description
+  <img src="assets/gradbridge.svg" width="440" alt="Current Match">
+
+</div>
+
+<br>
+
+<table align="center" width="600">
+<tr><td width="600">
+
+**Description**
 GradBridge closes the gap between finishing a degree and starting a career — connecting graduates with the internships, entry-level roles, and mentors that get lost in the noise of a first job search.
 
-### Architecture
+**Architecture**
 A REST API backend, a relational data layer, and a React front end — deployed as a live web application and built to stay simple enough to extend.
 
-### Highlights
+**Highlights**
 Full-stack build from schema to shipped UI, designed and deployed solo, end to end.
 
-### Status
+**Status**
 Live — actively maintained.
 
-### Future
+**Future**
 Recommendation matching, richer graduate profiles, and a dashboard for partner institutions.
 
-      </td>
-    </tr>
-  </table>
+</td></tr>
+</table>
 
-  <br>
-
-  [![Visit GradBridge](https://img.shields.io/badge/Visit-GradBridge-4B7F52?style=for-the-badge)](https://gradbridge-1.netlify.app)
-
-</div>
-
----
+<br>
 
 <div align="center">
 
-  <!-- Competitive Programming Header -->
-  <img src="assets/tournament.svg" width="100%" max-width="520" alt="Tournament Hall">
+  [![Visit GradBridge](https://img.shields.io/badge/VISIT-GRADBRIDGE-4B7F52?style=for-the-badge&logo=netlify&logoColor=F5F5F0)](https://gradbridge-1.netlify.app)
 
 </div>
 
 <br>
 
 <div align="center">
-  <table width="100%" style="max-width: 700px;">
+  <img src="assets/divider.svg" width="600" alt="">
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="assets/tournament.svg" width="440" alt="Tournament Hall">
+
+</div>
+
+<br>
+
+<div align="center">
+  <table width="600">
     <tr>
-      <td align="center" width="33%"><b>1240</b><br>Max Rating</td>
-      <td align="center" width="33%"><b>Pupil</b><br>Current Rank</td>
-      <td align="center" width="33%"><b>1500+</b><br>Problems Solved</td>
+      <td align="center" width="200"><b>1240</b><br>Max Rating</td>
+      <td align="center" width="200"><b>Pupil</b><br>Current Rank</td>
+      <td align="center" width="200"><b>1500+</b><br>Problems Solved</td>
     </tr>
   </table>
 
   <br>
 
-  <table width="100%" style="max-width: 700px;">
+  <table width="600">
     <tr>
-      <td width="30" align="center"><img src="assets/queen.svg" width="18" alt="Queen"></td>
-      <td>3rd Place — Intra University Junior Programming Contest</td>
+      <td width="28"><img src="assets/queen.svg" width="16" alt=""></td>
+      <td width="572">3rd Place — Intra University Junior Programming Contest</td>
     </tr>
     <tr>
-      <td width="30" align="center"><img src="assets/queen.svg" width="18" alt="Queen"></td>
-      <td>Runner-up — Intra University Programming Contest</td>
+      <td width="28"><img src="assets/queen.svg" width="16" alt=""></td>
+      <td width="572">Runner-up — Intra University Programming Contest</td>
     </tr>
     <tr>
-      <td width="30" align="center"><img src="assets/queen.svg" width="18" alt="Queen"></td>
-      <td>ICPC Preliminary 2025 — Rank 450</td>
+      <td width="28"><img src="assets/queen.svg" width="16" alt=""></td>
+      <td width="572">ICPC Preliminary 2025 — Rank 450</td>
     </tr>
     <tr>
-      <td width="30" align="center"><img src="assets/queen.svg" width="18" alt="Queen"></td>
-      <td>Intra University CTF Competition — Rank 8</td>
+      <td width="28"><img src="assets/queen.svg" width="16" alt=""></td>
+      <td width="572">Intra University CTF Competition — Rank 8</td>
     </tr>
   </table>
 </div>
@@ -153,29 +165,40 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 <div align="center">
 
-  <img src="https://github-stats-extended.vercel.app/api?username=IftekharTamim595&show_icons=true&hide_border=true&bg_color=00000000&title_color=4B7F52&text_color=222222&icon_color=769656&border_color=D8D8D8&count_private=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IftekharTamim595&layout=compact&hide_border=true&bg_color=00000000&title_color=4B7F52&text_color=222222&border_color=D8D8D8" width="48%" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api?username=IftekharTamim595&show_icons=true&hide_border=false&bg_color=00000000&title_color=4B7F52&text_color=222222&icon_color=769656&border_color=4B7F52&count_private=true" width="410" alt="GitHub Stats">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IftekharTamim595&layout=compact&hide_border=false&bg_color=00000000&title_color=4B7F52&text_color=222222&border_color=4B7F52" width="330" alt="Top Languages">
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IftekharTamim595&bg_color=00000000&color=4B7F52&line=4B7F52&point=769656&area=true&area_color=769656&hide_border=true&custom_title=GitHub%20Activity" width="100%" style="max-width: 760px;" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IftekharTamim595&bg_color=00000000&color=4B7F52&line=4B7F52&point=769656&area=true&area_color=769656&hide_border=true&custom_title=GitHub%20Activity" width="760" alt="GitHub Activity">
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="assets/divider.svg" width="600" alt="">
+</div>
+
+<br>
 
 <div align="center">
 
-  <img src="assets/quote.svg" width="100%" max-width="520" alt="Quote">
+  <img src="assets/quote.svg" width="480" alt="">
 
 </div>
 
----
+<br>
+
+<div align="center">
+  <img src="assets/divider.svg" width="600" alt="">
+</div>
+
+<br>
 
 <div align="center">
 
-  <!-- Footer Header -->
-  <img src="assets/endgame.svg" width="100%" max-width="480" alt="Endgame">
+  <img src="assets/endgame.svg" width="360" alt="Endgame">
 
   <br><br>
 
@@ -183,12 +206,11 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
   <br><br>
 
-  <!-- Connect Links -->
-  [![GitHub](https://img.shields.io/badge/GitHub-4B7F52?style=flat-square&logo=github&logoColor=F5F5F0)](https://github.com/IftekharTamim595)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B7F52?style=flat-square&logo=linkedin&logoColor=F5F5F0)](https://linkedin.com/in/iftekhar-islam-tamim-884181218)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4B7F52?style=flat-square)](https://iftekhar-islam-tamim.netlify.app)
-  [![GradBridge](https://img.shields.io/badge/GradBridge-4B7F52?style=flat-square&logo=netlify&logoColor=F5F5F0)](https://gradbridge-1.netlify.app)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-4B7F52?style=flat-square&logo=codeforces&logoColor=F5F5F0)](https://codeforces.com/profile/tamimbhuiyan890)
-  [![Email](https://img.shields.io/badge/Email-4B7F52?style=flat-square&logo=gmail&logoColor=F5F5F0)](mailto:tamimbhuiyan890@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-4B7F52?style=for-the-badge&logo=github&logoColor=F5F5F0)](https://github.com/IftekharTamim595)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B7F52?style=for-the-badge&logo=linkedin&logoColor=F5F5F0)](https://linkedin.com/in/iftekhar-islam-tamim-884181218)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4B7F52?style=for-the-badge&logo=netlify&logoColor=F5F5F0)](https://iftekhar-islam-tamim.netlify.app)
+  [![GradBridge](https://img.shields.io/badge/GradBridge-4B7F52?style=for-the-badge&logo=netlify&logoColor=F5F5F0)](https://gradbridge-1.netlify.app)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-4B7F52?style=for-the-badge&logo=codeforces&logoColor=F5F5F0)](https://codeforces.com/profile/tamimbhuiyan890)
+  [![Email](https://img.shields.io/badge/Email-4B7F52?style=for-the-badge&logo=gmail&logoColor=F5F5F0)](mailto:tamimbhuiyan890@gmail.com)
 
 </div>
