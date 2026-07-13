@@ -191,3 +191,4 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
   [![Codeforces](https://img.shields.io/badge/Codeforces-4B7F52?style=flat-square&logo=codeforces&logoColor=F5F5F0)](https://codeforces.com/profile/tamimbhuiyan890)
   [![Email](https://img.shields.io/badge/Email-4B7F52?style=flat-square&logo=gmail&logoColor=F5F5F0)](mailto:tamimbhuiyan890@gmail.com)
 
+</div>
