@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 108">
+  <g transform="translate(0,20)">
+    <g transform="translate(0,2) scale(0.72)">
+      <rect x="30" y="4" width="4" height="12" fill="#4B7F52"/>
+      <rect x="26" y="8" width="12" height="4" fill="#4B7F52"/>
+      <path d="M20,19 C20,16.8 21.8,15 24,15 H40 C42.2,15 44,16.8 44,19
+               C44,22.5 41.5,25.5 38.5,27.5
+               C40.5,30.5 43,34.5 44.5,38.5
+               C46,42.5 46.8,45.5 47,48
+               H17
+               C17.2,45.5 18,42.5 19.5,38.5
+               C21,34.5 23.5,30.5 25.5,27.5
+               C22.5,25.5 20,22.5 20,19 Z" fill="#4B7F52"/>
+      <rect x="14.5" y="48" width="35" height="6.5" rx="3.25" fill="#4B7F52"/>
+    </g>
+    <text x="56" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#222222">Endgame</text>
+    <text x="58" y="54" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#769656">CONTACT</text>
+  </g>
+</svg>

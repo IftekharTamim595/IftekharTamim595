@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 108">
+  <g transform="translate(0,20)">
+    <g transform="translate(0,2) scale(0.72)">
+      <circle cx="17" cy="12" r="3.4" fill="#4B7F52"/>
+      <circle cx="26.5" cy="8.5" r="3.4" fill="#4B7F52"/>
+      <circle cx="32" cy="20" r="3.4" fill="#4B7F52"/>
+      <circle cx="37.5" cy="8.5" r="3.4" fill="#4B7F52"/>
+      <circle cx="47" cy="12" r="3.4" fill="#4B7F52"/>
+      <path d="M17,15.4 L21.5,29 H42.5 L47,15.4
+               L38.6,20.5 L37.5,11.9
+               L32,23.4 L26.5,11.9 L25.4,20.5 Z" fill="#4B7F52"/>
+      <path d="M22.5,29 H41.5
+               C42,33 44.5,37 46,40
+               C47.3,42.5 47.8,45.5 48,48
+               H16
+               C16.2,45.5 16.7,42.5 18,40
+               C19.5,37 22,33 22.5,29 Z" fill="#4B7F52"/>
+      <rect x="14.5" y="48" width="35" height="6.5" rx="3.25" fill="#4B7F52"/>
+    </g>
+    <text x="56" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#222222">Tournament Hall</text>
+    <text x="58" y="54" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#769656">RESULTS</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 108">
+  <g transform="translate(0,20)">
+    <g transform="translate(0,2) scale(0.72)">
+      <path d="M18,10 H24 V15 H28 V10 H36 V15 H40 V10 H46 V22 L41,28
+               V44 C44,45.5 46,48.5 46.5,52 H17.5
+               C18,48.5 20,45.5 23,44 V28 L18,22 Z" fill="#4B7F52"/>
+      <rect x="15" y="52" width="34" height="6" rx="3" fill="#4B7F52"/>
+    </g>
+    <text x="56" y="34" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#222222">Current Match</text>
+    <text x="58" y="54" font-family="'Helvetica Neue', Arial, sans-serif" font-size="12.5" letter-spacing="2.5" fill="#769656">ACTIVE PROJECT</text>
+  </g>
+</svg>

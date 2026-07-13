@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150">
+  <rect x="375" y="14" width="10" height="10" rx="1.2" transform="rotate(45 380 19)" fill="#769656"/>
+
+  <text x="380" y="66" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#222222">Every position is calculated</text>
+  <text x="380" y="102" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="27" fill="#222222">before the piece is moved.</text>
+
+  <line x1="330" y1="122" x2="360" y2="122" stroke="#D8D8D8" stroke-width="1"/>
+  <line x1="400" y1="122" x2="430" y2="122" stroke="#D8D8D8" stroke-width="1"/>
+  <text x="380" y="126" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="2.5" fill="#769656">WORKING PRINCIPLE</text>
+</svg>
