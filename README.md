@@ -8,8 +8,8 @@
 
 <br><br>
 
-<div align="center">
-<img src="assets/opening.svg" width="360" alt="Opening">
+<div align="left">
+<img src="assets/opening.svg" width="480" alt="Opening">
 </div>
 
 <br>
@@ -119,8 +119,8 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 <br><br>
 
-<div align="center">
-<img src="assets/tournament.svg" width="440" alt="Tournament Hall">
+<div align="left">
+<img src="assets/tournament.svg" width="520" alt="Tournament Hall">
 </div>
 
 <br>
