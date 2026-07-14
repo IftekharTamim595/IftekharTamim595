@@ -6,36 +6,22 @@
   <img src="assets/light.svg" alt="Iftekhar Islam Tamim" width="100%">
 </picture>
 
-<br><br>
-
 <div align="left">
 <img src="assets/opening.svg" width="540" alt="Opening">
 </div>
-
-<br>
-
 <table align="center" width="600">
 <tr><td align="center">
 
-I'm a <b><i>backend-focused software engineer</i></b> building <b><i>APIs</i></b> and <b><i>backend services</i></b> with <b><i>Python</i></b>, <b><i>Django</i></b>, <b><i>FastAPI</i></b>, and <b><i>PostgreSQL</i></b>. Alongside development, I've solved 1,500+ <b><i>competitive programming</i></b> problems on <b><i>Codeforces</i></b>, strengthening my foundation in <b><i>data structures</i></b>, <b><i>algorithms</i></b>, and <b><i>problem solving</i></b>, while continually exploring <b><i>system design</i></b>, <b><i>cloud</i></b>, and <b><i>networking</i></b>.
+I'm a <b><i>backend-focused software developer</i></b> building <b><i>APIs</i></b> and backend services</i></b> with <b><i>Python</i></b>, <b><i>Django</i></b>, <b><i>FastAPI</i></b>, and <b><i>PostgreSQL</i></b>. Alongside development, I've solved 1,500+ <b><i>competitive programming</i></b> problems on <i>Codeforces</i>, strengthening my foundation in <i>data structures</i>, <i>algorithms</i>, and <i>problem solving</i>, while continually exploring <i>system design</i><, <i>cloud</i>, and <i>networking</i>.
 
 </td></tr>
 </table>
-
-<br><br>
-
 <div align="center">
-<img src="assets/divider.svg" width="600" alt="">
+<img src="assets/divider.svg" align="center" width="600" alt="">
 </div>
-
-<br><br>
-
 <div align="left">
 <img src="assets/position.svg" width="540" alt="Position">
 </div>
-
-<br>
-
 <table align="center" width="600">
 <tr>
   <td width="150" valign="top"><b>Core</b></td>
@@ -62,14 +48,9 @@ I'm a <b><i>backend-focused software engineer</i></b> building <b><i>APIs</i></b
   <td width="450">System Design · Cloud · Networking</td>
 </tr>
 </table>
-
-<br><br>
-
 <div align="center">
 <img src="assets/divider.svg" width="600" alt="">
 </div>
-
-<br><br>
 
 <div align="left">
 <img src="assets/gradbridge.svg" width="540" alt="Current Match">
@@ -85,9 +66,7 @@ I'm a <b><i>backend-focused software engineer</i></b> building <b><i>APIs</i></b
 GradBridge closes the gap between finishing a degree and starting a career — connecting graduates with the internships, entry-level roles, and mentors that get lost in the noise of a first job search.
 
 **Architecture**
-
 A REST API backend, a relational data layer, and a React front end — deployed as a live web application and built to stay simple enough to extend.
-
 **Highlights**
 
 Full-stack build from schema to shipped UI, designed and deployed solo, end to end.
@@ -111,29 +90,22 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 </div>
 
-<br><br>
-
 <div align="center">
 <img src="assets/divider.svg" width="600" alt="">
 </div>
-
-<br><br>
 
 <div align="left">
 <img src="assets/tournament.svg" width="540" alt="Tournament Hall">
 </div>
 
-<br>
 
 <table align="center" width="600">
 <tr>
   <td align="center" width="200"><b>1240</b><br>Max Rating</td>
-  <td align="center" width="200"><b>Pupil</b><br>Current Rank</td>
+  <td align="center" width="200"><b>Pupil</b><br>at Codeforces</td>
   <td align="center" width="200"><b>1500+</b><br>Problems Solved</td>
 </tr>
 </table>
-
-<br>
 
 <table align="center" width="600">
 <tr>
@@ -154,8 +126,6 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 </tr>
 </table>
 
-<br><br>
-
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=IftekharTamim595&show_icons=true&hide_border=false&bg_color=00000000&title_color=4B7F52&text_color=222222&icon_color=769656&border_color=4B7F52&count_private=true" width="410" alt="GitHub Stats">
@@ -167,27 +137,19 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 </div>
 
-<br><br>
-
 <div align="center">
 <img src="assets/divider.svg" width="600" alt="">
 </div>
-
-<br><br>
 
 <div align="center">
 <img src="assets/quote.svg" width="480" alt="">
 </div>
 
-<br><br>
-
 <div align="center">
 <img src="assets/divider.svg" width="600" alt="">
 </div>
 
-<br><br>
-
-<div align="left">
+<div align="left"><br>
 <img src="assets/endgame.svg" width="540" alt="Endgame">
 </div>
 
@@ -197,7 +159,6 @@ Recommendation matching, richer graduate profiles, and a dashboard for partner i
 
 The board is always open for the next collaboration.
 
-<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-4B7F52?style=for-the-badge&logo=github&logoColor=F5F5F0)](https://github.com/IftekharTamim595)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B7F52?style=for-the-badge&logo=linkedin&logoColor=F5F5F0)](https://linkedin.com/in/iftekhar-islam-tamim-884181218)
