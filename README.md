@@ -12,7 +12,7 @@
 <table align="center" width="600">
 <tr><td align="center">
 
-I'm a <b><i>backend-focused software developer</i></b> building <b><i>APIs</i></b> and backend services</i></b> with <b><i>Python</i></b>, <b><i>Django</i></b>, <b><i>FastAPI</i></b>, and <b><i>PostgreSQL</i></b>. Alongside development, I've solved 1,500+ <b><i>competitive programming</i></b> problems on <i>Codeforces</i>, strengthening my foundation in <i>data structures</i>, <i>algorithms</i>, and <i>problem solving</i>, while continually exploring <i>system design</i><, <i>cloud</i>, and <i>networking</i>.
+I'm a <b><i>backend-focused software developer</i></b> building <b><i>APIs</i></b> and backend services</i></b> with <b><i>Python</i></b>, <b><i>Django</i></b>, <b><i>FastAPI</i></b>, and <b><i>PostgreSQL</i></b>. Alongside development, I've solved 1,500+ <b><i>competitive programming</i></b> problems on <i>Codeforces</i>, strengthening my foundation in <i>data structures</i>, <i>algorithms</i>, and <i>problem solving</i>, while continually exploring <i>system design</i>, <i>cloud</i>, and <i>networking</i>.
 
 </td></tr>
 </table>
